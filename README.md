@@ -2,6 +2,8 @@
 
 https://hyperskill.org/projects/225
 
+https://hyperskill.org/profile/271391908
+
 ABOUT
 
 This short code challenge can help the local zoo look after its denizens. You will create a tool for monitoring animals and their status.
