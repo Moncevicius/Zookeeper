@@ -1,0 +1,16 @@
+type: remote_edu
+custom_name: Rush into print.
+files:
+- name: tests.py
+  visible: false
+  learner_created: false
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/17230#comment
+check_profile: hyperskill_node_javascript
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 10 Jun 2022 20:34:15 UTC
+record: 1
